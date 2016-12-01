@@ -29,7 +29,7 @@ These shell scripts are
 
 ## Usage:
 These scripts are tested successfully in mac.
-Since these are .command file so you just need to double click the file(persmission should be executable for the file).
+Since these are .command file so you just need to double click the file(permission should be executable for the file).
 
 Script also has notification enabled, so once scripts gets completed, it will show mac notification bar with message for
-its status as completed so that you do not need to keep watching the termial to see if its completed or not.
+its status as completed so that you do not need to keep watching the terminal to see if its completed or not.
