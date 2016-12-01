@@ -2,6 +2,7 @@ read -r -p "Are you sure? [y/N] " response
 case $response in
     [yY][eE][sS]|[yY]) 
 
+        # cd to project codebase directory
         cd /var/www/html;
         for i in $(git branch | sed 's/^.//');
         do
